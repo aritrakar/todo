@@ -1,6 +1,6 @@
 import React from "react";
 //import './App.css';
-import TDC from "./ToDoComponent";
+import TDC from "./ToDoComponent.jsx";
 import todosData from "./todosData.js";
 
 let todoArray = [];
